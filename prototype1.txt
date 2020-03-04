@@ -1,0 +1,13 @@
+The Benefits of Prototyping:
+
+1. Reduced time and costs.
+2. Improved and increased user involvement.
+3. Prototyping improves the quality of requirements and specifications provided to customers.
+4. Conflict resolution.
+
+The Disadvantages of Prototyping:
+
+1.Insufficient analysis.
+2. User confusion.
+3. Developer misunderstanding of user objectives.
+4. Excessive Development Time.
